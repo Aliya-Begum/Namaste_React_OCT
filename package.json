@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react_oct",
+  "version": "1.0.0",
+  "description": "This is episode 2 igniting our app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "JS",
+    "Namste",
+    "React",
+    "Aliya"
+  ],
+  "author": "Aliya Begum",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
